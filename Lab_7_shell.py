@@ -1,3 +1,6 @@
+#лучшее nlog^2(n)
+#худшее n^2
+
 import math
 def sort(array):
     n = len(array)
