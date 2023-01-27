@@ -1,3 +1,5 @@
+# Постоянное время n^2
+
 def sort(array):
     for num in range(len(array)):
         min_value = num
