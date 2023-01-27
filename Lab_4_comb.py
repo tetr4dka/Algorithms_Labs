@@ -1,3 +1,7 @@
+# Худшее n^2
+# Лучшее nlogn
+
+
 def sort(array):
     step = int(len(array)/1.247)
     swap = 1
